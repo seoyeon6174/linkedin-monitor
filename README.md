@@ -19,7 +19,7 @@ Monitor [LinkedIn](https://linkedin.com) profiles for new posts and get notified
 ## Quick Start
 
 ```bash
-git clone https://github.com/skylahkim/linkedin-monitor.git
+git clone https://github.com/seoyeon6174/linkedin-monitor.git
 cd linkedin-monitor
 pip install -r requirements.txt
 playwright install chromium
@@ -55,9 +55,9 @@ python monitor_linkedin.py
 
 ## Environment Variables
 
-| Variable | Required | Description |
-|----------|----------|-------------|
-| `LINKEDIN_SLACK_WEBHOOK` | Yes | Slack incoming webhook URL |
+| Variable                 | Required | Description                |
+| ------------------------ | -------- | -------------------------- |
+| `LINKEDIN_SLACK_WEBHOOK` | Yes      | Slack incoming webhook URL |
 
 If `LINKEDIN_SLACK_WEBHOOK` is not set, the monitor runs in dry-run mode and prints new posts to the console.
 

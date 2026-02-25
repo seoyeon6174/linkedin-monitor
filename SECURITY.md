@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in this project, please report it responsibly:
 
-1. **GitHub Issues** - Open an issue at [github.com/skylahkim/linkedin-monitor/issues](https://github.com/skylahkim/linkedin-monitor/issues)
+1. **GitHub Issues** - Open an issue at [github.com/seoyeon6174/linkedin-monitor/issues](https://github.com/seoyeon6174/linkedin-monitor/issues)
 2. **Email** - Contact the maintainer directly
 
 ## Important
@@ -16,6 +16,7 @@ If you discover a security vulnerability in this project, please report it respo
 ## Scope
 
 This project runs as a monitoring script and interacts with:
+
 - LinkedIn (linkedin.com) via Playwright browser automation with session cookies
 - Slack via webhook URLs
 
