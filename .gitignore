@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 .env
 state.json
+state.json.bak*
 session/*
 !session/.gitkeep
 *.log
+diag/

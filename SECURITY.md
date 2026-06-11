@@ -18,6 +18,6 @@ If you discover a security vulnerability in this project, please report it respo
 This project runs as a monitoring script and interacts with:
 
 - LinkedIn (linkedin.com) via Playwright browser automation with session cookies
-- Slack via webhook URLs
+- Slack and Discord via webhook URLs
 
 Security concerns related to these integrations are in scope.
